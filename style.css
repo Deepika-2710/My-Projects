@@ -1,0 +1,9 @@
+.project{
+    background-color: hotpink;
+    border-radius: 3px;
+
+     
+}
+.project:hover{
+    background-color: lightblue;
+}
