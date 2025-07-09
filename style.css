@@ -50,7 +50,7 @@ body {
 }
 
 .input-box input::placeholder {
-  color: white;
+  color: pink;
 }
 
 .input-box i {
